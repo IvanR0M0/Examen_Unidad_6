@@ -1,3 +1,6 @@
+[Descargar pdf spbre las especificaciones de iPhone16](image1.png)
+
+
 #iPhone 16 - Especificaciones técnicas
 
 **Año de presentación:** *2024*

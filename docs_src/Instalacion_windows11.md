@@ -1,4 +1,5 @@
 #Guía Completa para la Instalación de Windows 11
+[Descargar la guía en pdf sobre la instalación de Windo11](W11.pdf)
 ![](image1.png)
 
 La llegada de Windows 11 ha sido uno de los lanzamientos más esperados
