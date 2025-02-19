@@ -1,0 +1,8 @@
+site_name: Documentaciones Informáticas
+site_url: https://github.com/IvanR0M0/Examen_Unidad_6
+docs_dir: docs_src
+nav:
+  - Especificaciones Técnicas del iPhone 16: especificaciones_iphone16.md
+  - Guía de instalación de Windows 11: Instalacion_windows11.md
+theme:
+  name: readthedocs
