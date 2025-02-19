@@ -1,6 +1,4 @@
-Guía Completa para la Instalación de Windows 11
-
-![](img/image1.png){width="3.75in" height="3.75in"}
+##Guía Completa para la Instalación de Windows 11
 
 La llegada de Windows 11 ha sido uno de los lanzamientos más esperados
 por los usuarios de computadoras de todo el mundo. Este nuevo sistema
