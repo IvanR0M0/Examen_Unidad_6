@@ -1,4 +1,4 @@
-[Descargar pdf spbre las especificaciones de iPhone16](iPh16.pdf)
+[Descargar pdf sobre las especificaciones de iPhone16](iPh16.pdf)
 
 
 #iPhone 16 - Especificaciones técnicas
